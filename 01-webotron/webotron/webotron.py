@@ -3,9 +3,9 @@
 
 """Webotron: Deploy websites with AWS.
 
-Webotron automates process of deploying static websites to AWS.
+Webotron automates the process of deploying static websites to AWS.
 - Configure AWS S3 buckets
- - Crete them
+ - Create them
  - Set them up for static website hosting
  - Deploy local files to them
 - Configure DNS with AWS Route 53
