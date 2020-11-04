@@ -1,4 +1,4 @@
-	#!/bin/sh
-	pycodestyle webotron/
-	pydocstyle webotron/
+#!/bin/sh
+pycodestyle webotron/
+pydocstyle webotron/
 pyflakes webotron/
