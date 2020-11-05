@@ -11,6 +11,7 @@ pylint = "*"
 pyflakes = "*"
 botocore = "*"
 click = "*"
+setuptools = "*"
 
 [packages]
 click = "*"
